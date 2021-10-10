@@ -1,6 +1,5 @@
 {
   "name": "recipe_app",
-  "homepage": "https://suhasnidgundi.suveesoft.in/recipe_app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
